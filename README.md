@@ -1,8 +1,7 @@
 # Todo-mvc
 
-This README outlines the details of collaborating on this Ember application.
-
-A short introduction of this app could easily go here.
+A todo list app built with Ember-CLI following a wonderful tutorial from @brownie3003.
+[Getting Started with Ember.js usin Ember-CLI](http://thetechcofounder.com/getting-started-with-ember-js-using-ember-cli)
 
 ## Prerequisites
 
@@ -23,23 +22,6 @@ You will need the following things properly installed on your computer.
 * `ember server`
 * Visit your app at http://localhost:4200.
 
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
-
-### Running Tests
-
-* `ember test`
-* `ember test --server`
-
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
 
 ## Further Reading / Useful Links
 
