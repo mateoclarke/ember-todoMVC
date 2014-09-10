@@ -1,6 +1,6 @@
 # Todo-mvc
 
-A todo list app built with Ember-CLI following a wonderful tutorial from [https://github.com/brownie3003/todo-mvc](@brownie3003).
+A todo list app built with Ember-CLI following a wonderful tutorial from [@brownie3003](https://github.com/brownie3003/todo-mvc).
 
 [Getting Started with Ember.js usin Ember-CLI](http://thetechcofounder.com/getting-started-with-ember-js-using-ember-cli)
 
